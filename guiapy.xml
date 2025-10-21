@@ -46,8 +46,8 @@
 <channel id="MTV.py"><display-name>MTV.py</display-name></channel>
 <channel id="Multipremier.py"><display-name>Multipremier.py</display-name></channel>
 <channel id="National Geographic.py"><display-name>National Geographic.py</display-name></channel>
-<channel id="Paraguay TV.py"><display-name>Paraguay TV.py</display-name></channel>
-<channel id="Paravision.py"><display-name>Paravision.py</display-name></channel>
+<channel id="Paraguay TV.py"><display-name>PARAGUAY TV</display-name></channel>
+<channel id="Paravision.py"><display-name>PARAVISION</display-name></channel>
 <channel id="Playboy.py"><display-name>Playboy.py</display-name></channel>
 <channel id="Red Guaraní.py"><display-name>Red Guaraní.py</display-name></channel>
 <channel id="RPC.py"><display-name>RPC.py</display-name></channel>
@@ -64,7 +64,7 @@
 <channel id="Star Hits HD.py"><display-name>Star Hits HD.py</display-name></channel>
 <channel id="Star Series HD.py"><display-name>Star Series HD.py</display-name></channel>
 <channel id="Studio Universal.py"><display-name>Studio Universal.py</display-name></channel>
-<channel id="Sur TV.py"><display-name>Sur TV.py</display-name></channel>
+<channel id="Sur TV.py"><display-name>SUR TV ITAPUA</display-name></channel>
 <channel id="TeleAmiga.py"><display-name>TeleAmiga.py</display-name></channel>
 <channel id="Telecafe.py"><display-name>Telecafe.py</display-name></channel>
 <channel id="Telefe Internacional.py"><display-name>Telefe Internacional.py</display-name></channel>
