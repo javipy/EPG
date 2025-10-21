@@ -3,11 +3,11 @@
 <channel id="AandE.py"><display-name>AandE.py</display-name></channel>
 <channel id="ABC TV.py"><display-name>ABC TV HD</display-name></channel>
 <channel id="America 24.py"><display-name>America 24.py</display-name></channel>
-<channel id="AMÉRICA TELEVISION.py"><display-name>AMÉRICA TELEVISION.py</display-name></channel>
+<channel id="AMÉRICA TELEVISION.py"><display-name>AMERICA PY</display-name></channel>
 <channel id="Animal Planet.py"><display-name>Animal Planet.py</display-name></channel>
 <channel id="AXN.py"><display-name>AXN.py</display-name></channel>
 <channel id="Az Corazon.py"><display-name>Az Corazon.py</display-name></channel>
-<channel id="C9N.py"><display-name>C9N.py</display-name></channel>
+<channel id="C9N.py"><display-name>C9N</display-name></channel>
 <channel id="Caracol Internacional.py"><display-name>Caracol Internacional.py</display-name></channel>
 <channel id="Cartoon Network.py"><display-name>Cartoon Network.py</display-name></channel>
 <channel id="Cinecanal.py"><display-name>Cinecanal.py</display-name></channel>
@@ -21,7 +21,7 @@
 <channel id="Discovery World.py"><display-name>Discovery World.py</display-name></channel>
 <channel id="Disney Channel.py"><display-name>Disney Channel.py</display-name></channel>
 <channel id="Disney XD.py"><display-name>Disney XD.py</display-name></channel>
-<channel id="El Trece.py"><display-name>El Trece.py</display-name></channel>
+<channel id="El Trece.py"><display-name>EL TRECE PY</display-name></channel>
 <channel id="Enlace.py"><display-name>Enlace.py</display-name></channel>
 <channel id="ESPN 2.py"><display-name>ESPN 2.py</display-name></channel>
 <channel id="ESPN 3.py"><display-name>ESPN 3.py</display-name></channel>
@@ -52,7 +52,7 @@
 <channel id="Red Guaraní.py"><display-name>Red Guaraní.py</display-name></channel>
 <channel id="RPC.py"><display-name>RPC.py</display-name></channel>
 <channel id="Russia Today HD.py"><display-name>Russia Today HD.py</display-name></channel>
-<channel id="SNT.py"><display-name>SNT.py</display-name></channel>
+<channel id="SNT.py"><display-name>SNT HD</display-name></channel>
 <channel id="Sony HD.py"><display-name>Sony HD.py</display-name></channel>
 <channel id="Sony.py"><display-name>Sony.py</display-name></channel>
 <channel id="Space.py"><display-name>Space.py</display-name></channel>
@@ -68,7 +68,7 @@
 <channel id="TeleAmiga.py"><display-name>TeleAmiga.py</display-name></channel>
 <channel id="Telecafe.py"><display-name>Telecafe.py</display-name></channel>
 <channel id="Telefe Internacional.py"><display-name>Telefe Internacional.py</display-name></channel>
-<channel id="Telefuturo.py"><display-name>Telefuturo.py</display-name></channel>
+<channel id="Telefuturo.py"><display-name>TELEFUTURO</display-name></channel>
 <channel id="Telemundo.py"><display-name>Telemundo.py</display-name></channel>
 <channel id="Tigo Sports.py"><display-name>Tigo Sports.py</display-name></channel>
 <channel id="TLNovelas.py"><display-name>TLNovelas.py</display-name></channel>
@@ -78,7 +78,7 @@
 <channel id="TVS HD.py"><display-name>TVS HD.py</display-name></channel>
 <channel id="TVS.py"><display-name>TVS.py</display-name></channel>
 <channel id="TyC Sports.py"><display-name>TyC Sports.py</display-name></channel>
-<channel id="Unicanal.py"><display-name>Unicanal.py</display-name></channel>
+<channel id="Unicanal.py"><display-name>UNICANAL HD</display-name></channel>
 <channel id="Universal Channel HD.py"><display-name>Universal Channel HD.py</display-name></channel>
 <channel id="Universal TV.py"><display-name>Universal TV.py</display-name></channel>
 <channel id="Univision.py"><display-name>Univision.py</display-name></channel>
